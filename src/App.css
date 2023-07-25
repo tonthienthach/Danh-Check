@@ -1,0 +1,13 @@
+body {
+  background: #f0f2f5;
+}
+.header {
+  text-align: center;
+  background: white;
+  color: #3f90f7;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 10px 0;
+}
